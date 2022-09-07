@@ -37,7 +37,7 @@ const Products = (props) => {
     
         <h2>{text1.text_heading}</h2>
         <h3>
-          <Link to="/">Home</Link> / Products
+          <Link to="/">Home</Link> / Alloys
         </h3>
 
         <img className="img-fluid" src={text1.img} alt=""/>

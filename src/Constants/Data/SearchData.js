@@ -706,4 +706,104 @@ export const SearchData=[
       name:'Inconel RA330 Sheets & Plates',
       link:'/InconelRA330Grade'
     },
+    {
+      id: 1,
+      
+      name: "ANSI Norm Flanges",
+      link: "/ANSI_Norm_Flanges",
+     
+    },
+    {
+      id: 2,
+     
+      name: "UNI Norm Flanges",
+      link: "/UNI_Norm_Flanges",
+      
+    },
+    {
+      id: 3,
+  
+      name: "EN Norm Flanges",
+      link: "/EN_Norm_Flanges",
+    },
+    {
+      id: 4,
+  
+      name: "BS Norm Flanges",
+      link: "/BS_Norm_Flanges",
+    },
+    {
+      id: 5,
+      
+      name: "JIS Norm Flanges",
+      link: "/JIS_Norm_Flangess",
+     
+    },
+    {
+      id: 6,
+      
+      name: "DIN Norm Flanges",
+      link: "/DIN_Norm_Flanges",
+      
+    },
+    {
+      id:1,
+      
+      name:"Buttweld Pipe Fittings",
+      link:'/Buttweld_Pipe_Fittings',                           
+      
+    },
+    {
+      id:2,
+     
+      name:"Threaded Pipe Fittings",
+      link:'/Threaded_Pipe_Fittings',
+    },
+    {
+      id:3,
+      name:"Socket Weld  Pipe Fittings",
+      link:"/MGalvanized_Pipe_Fittings",
+      
+    },{
+      id:4,
+      name:"Olets Pipe Fittings",
+      link:"/Olets_Pipe_Fittings",
+      
+    },
+    {
+      id:5,
+      name:"Stainless Steel",
+      link:"/products/stainless_steel",
+      
+    },
+    {
+      id:6,
+      name:"Mild Steel",
+      link:"/products/mildSteel",
+      
+    },
+    {
+      id:7,
+      name:"Carbon Steel",
+      link:"/products/carbon_steel",
+      
+    },
+    {
+      id:8,
+      name:"High Nickel Alloys",
+      link:"/products/high_nickel_alloys",
+      
+    },
+    {
+      id:9,
+      name:"Duplex Steels",
+      link:"/products/duplex_steel",
+      
+    },
+    {
+      id:10,
+      name:"Titanium Alloys",
+      link:"/products/titanium_alloys",
+      
+    }
 ]

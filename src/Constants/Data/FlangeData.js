@@ -99,7 +99,7 @@ export const ENNormFlangesData = [
       "NPT Threads conform to ASME B1.20.1",
       'Up to 12" Listed',
     ],
-    img: require('../Images/FlangeImg/EN_Flange_Img.png'),
+    img: require('../Images/FlangeImg/img8.jpg'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",
@@ -162,7 +162,7 @@ export const BSNormFlangesData = [
     text2:
       "Modi metals is a dynamic group, which was set up completed 10 years back to oblige creating solicitations of BS 4504/BS 10 Flanges gages in BS Norm Flanges, Blind Flanges, Threaded Flanges, Loose or Lap Joint Flanges in all materials like Stainless Steel , Carbon Steel and High Nickel Alloys. We Manufacture, Export and Supply Flanges which meets with national and all-inclusive quality models and making base which has supplies changing in accordance with overall specific level and is particularly equipped with a whole game plan of forefront plasma refining sorts of rigging.",
     text3: "",
-    img:require('../Images/FlangeImg/Bs_Norm_Flange.png'),
+    img:require('../Images/FlangeImg/img9.png'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",
@@ -202,7 +202,7 @@ export const JISNormFlangesData = [
     text2:
       "Modi Metals is a dynamic group, which was delivered completed 10 years back to consider making offers of JIS Flanges measures in Weld Neck Flanges, Blind Flanges, Threaded Flanges, Loose or Lap Joint Flanges in all materials like Stainless Steel , Carbon Steel and High Nickel Alloys. We Manufacture, Export and Supply Flanges which meets with national and general quality gages and making base which has sorts of apparatus fitting in with general particular level and is especially equipped with a whole system of bleeding edge plasma refining sorts of mechanical gathering.",
     text3: "",
-    img:require('../Images/FlangeImg/JIS_Norm_Flange.png'),
+    img:require('../Images/FlangeImg/img10.png'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",
@@ -242,7 +242,7 @@ export const UNINormFlangesData = [
     text2:
       "UNI Flange Manufacturer Supplies Of UNI Flanges , UNI Flanges, UNI Forged Flange, UNI Flanges in Forged Steel, Stainless Steel, Carbon Steel C22.8, RST37.2, S235JR, P235GH, P245GH, P250GH, ASTM A105, ASTM A182 F304 (1.4306), F304L(1.4307), F316(1.4404), F316L(1.4404), F321(1.4541) and so forth.Stockist of Stainless Steel UNI PN6 Flanges, UNI Class 150 UNI Flange, UNI Pipe Flanges, Global Supplier of UNI Flanges, ASTM A182 SS UNI Flange, UNI Plate Flanges Dealer in India, UNI Blind Flanges, UNI Lapped joint Flanges, UNI Threaded Flange, UNI Plate Flange Stockist.",
     text3: "",
-    img:require('../Images/FlangeImg/UNI_Norm_Flange.png'),
+    img:require('../Images/FlangeImg/img11.png'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",
@@ -280,7 +280,7 @@ export const DINNormFlangesData = [
     text2:
       "Modi Metals is a dynamic group, which was set up finished 10 years back to consider making requesting of DIN Flanges gages in Weld Neck Flanges, Blind Flanges, Threaded Flanges, Loose or Lap Joint Flanges in all materials like Stainless Steel, Carbon Steel and High Nickel Alloys. We Manufacture, Export and Supply Flanges which meets with national and general quality benchmarks and making base which claims supplies changing as per general specific level and is all around equipped with an entire approach of front line plasma refining sorts of mechanical social gathering.",
     text3: "",
-    img:require('../Images/FlangeImg/DIN_Norm_Flange.png'),
+    img:require('../Images/FlangeImg/img12.png'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",
@@ -336,7 +336,7 @@ export const ANSINormFlangesData = [
     text2:
       "The present and right standard is ASME B16.5. ANSI B16.5 is regular industry language is still alluded to widely by modelers, designers, makers and providers. What's more, in spite of the fact that the ANSI B16.5 standard does not in fact exist, it its comprehended as another approach to state ASME B16.5.ANSI B16.5 Class 150 FlangesANSI flanges are accessible at Dipti Metal Industries in class 150.The ANSI flanges in the class 150 determination cover slip-ons, weld necks, lap joints, blinds, strung and attachment weld flanges. ANSI flanges for class 150 are given by Dipti Metal Industries as forgings unless generally indicated.The B16.5 Standard characterizes the accompanying:",
     text3: "",
-    img:require('../Images/FlangeImg/img2.jpg'),
+    img:require('../Images/FlangeImg/img7.jpg'),
     Specifications: {
       "STAINLESS STEEL FLANGE":
         "ASTM / ASME SA 182 F 304, 304L, 304H, 309H, 310H, 316, 316H, 316L, 316 LN, 317, 317L, 321, 321H, 347, 347 H",

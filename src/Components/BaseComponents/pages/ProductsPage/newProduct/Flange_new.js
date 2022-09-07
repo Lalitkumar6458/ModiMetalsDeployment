@@ -43,7 +43,7 @@ var text=`Contact us for more information regarding our ${props.name.heading} op
 
        <div className='Flange_details'>
 <p>{props.name.data[0].text1}</p>
-<img src={props.name.data[0].img}/>
+<img className='img-fluid' src={props.name.data[0].img}/>
 <p>{props.name.data[0].text2}</p>
        </div>
        <div className='Flange_specifications mt-5'>
@@ -108,7 +108,7 @@ var text=`Contact us for more information regarding our ${props.name.heading} op
 
     {props.name.data[0].products_Flanges.length===undefined?products_Flanges_key.map((item)=>{
     return(
-<div className='col-12 col-md-4 prodcts_flange_type'>
+<div className='col-12 col-md-4 prodcts_flange_type' style={{marginTop:"20px"}}>
  <h5>{item}</h5>
  <div className="Category_">
 {props.name.data[0].products_Flanges[item].map((item)=>{

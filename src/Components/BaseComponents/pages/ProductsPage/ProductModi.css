@@ -38,9 +38,10 @@
   th, td {
     text-align: left;
     padding: 8px;
-    width: 150px;
-    height: 30px;
-    white-space:nowrap;
+    /* width: 150px; */
+    /* height: 30px; */
+    /* white-space: nowrap; */
+    width: auto;
   }
   
   tr:nth-child(even){background-color: #f2f2f2}

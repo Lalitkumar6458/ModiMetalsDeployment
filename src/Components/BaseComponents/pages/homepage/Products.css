@@ -239,7 +239,11 @@ width: 300px;
     .products_cart4{
         width: 200px;
     }
-    .slick-slide{
+    .testimonial_sections .slick-slide{
+      
+        padding:0 46px;
+    }
+    .products_sections  .slick-slide{
       
         padding:0 2px;
     }
@@ -252,6 +256,14 @@ width: 300px;
     #button_controller_prew{
     
         transform: translateY(161px);
+    }
+    .products_cart1, .products_cart2, .products_cart3, .products_cart4 {
+        /* width: 300px; */
+        margin-left: 10px !important;
+    }
+   #products_sections .slick-slide {
+        /* width: 400px; */
+        padding-left: 13px !important;
     }
 }
 

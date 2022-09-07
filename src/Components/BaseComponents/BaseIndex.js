@@ -261,9 +261,11 @@ import { SocketWeldPipeFittingsData } from '../../Constants/Data/PipeFitings';
 import { CategoriesButtdata } from '../../Constants/Data/PipeFitings';
 import { SocketCatgoryData } from '../../Constants/Data/PipeFitings';
 import { ThreadedCatgoryData } from '../../Constants/Data/PipeFitings';
+import { OletsCatgoryData } from '../../Constants/Data/PipeFitings';
 import bgFitings from "../../Constants/Images/Pipefitings/BgFitings.jpg"
-import Bgfitongsimg from "../../Constants/Images/Pipefitings/BgFitingImg.jpg"
-import BgFitingsImg1 from "../../Constants/Images/Pipefitings/Img3.jpg"
+import Bgfitongsimg from "../../Constants/Images/Pipefitings/TrBgImg2.png"
+import BgFitingsImg1 from "../../Constants/Images/Pipefitings/TrBgImg1.png"
+import Oimg from "../../Constants/Images/Pipefitings/OImg1.png"
 import ScrollButton from './ScrollTop';
 
 import { ANSINormFlangesData } from '../../Constants/Data/FlangeData';
@@ -273,7 +275,7 @@ import { BSNormFlangesData } from '../../Constants/Data/FlangeData';
 import { JISNormFlangesData } from '../../Constants/Data/FlangeData';
 import { DINNormFlangesData } from '../../Constants/Data/FlangeData';
 import Flange_new from './pages/ProductsPage/newProduct/Flange_new';
-
+import { oletFittingsData } from '../../Constants/Data/PipeFitings';
 
 const BaseIndex = () => {
   const [loading, setLoading] = useState(true);
@@ -298,7 +300,7 @@ const BaseIndex = () => {
     <Route path="/Threaded_Pipe_Fittings" element={<PipeFitings name={{data:ThreadedPipeFittingsData,Grade:TitaniumCoilsGradeData,heading:"Threaded Pipe Fittings",img:Bgfitongsimg,Category:ThreadedCatgoryData}} />}/>
     <Route path="/MGalvanized_Pipe_Fittings" element={<PipeFitings name={{data:SocketWeldPipeFittingsData,Grade:TitaniumCoilsGradeData,heading:"Socket Weld Pipe Fittings",img:BgFitingsImg1,Category:SocketCatgoryData}} />}/>
 
-
+    <Route path="/Olets_Pipe_Fittings" element={<PipeFitings name={{data:oletFittingsData,Grade:TitaniumCoilsGradeData,heading:"Olets Pipe Fittings",img:Oimg,Category:OletsCatgoryData}} />}/>
     <Route path="/TitaniumGr1CoilsGrade" element={<SSallCom name={{data:TitaniumGrade1CoilsData,Grade:TitaniumCoilsGradeData,heading:"Titanium Gr1 Coils",img:CoilsImg1}} />}/>
     <Route path="/TitaniumGr2CoilsGrade" element={<SSallCom name={{data:TitaniumGrade2CoilsData,Grade:TitaniumCoilsGradeData,heading:"Titanium Gr2 Coils",img:CoilsImg1}} />}/>
     <Route path="/TitaniumGr3CoilsGrade" element={<SSallCom name={{data:TitaniumGrade3CoilsData,Grade:TitaniumCoilsGradeData,heading:"Titanium Gr3 Coils",img:CoilsImg1}} />}/>

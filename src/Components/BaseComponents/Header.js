@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React, { useState } from "react";
+import React, { useState,useRef, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import { Routes, Route, Link ,useNavigate} from "react-router-dom";
 import { ReactSearchAutocomplete } from 'react-search-autocomplete'
@@ -67,6 +67,26 @@ const Header = () => {
     }
   }
 
+  function useOutsideAlerter(ref) {
+    useEffect(() => {
+      /**
+       * Alert if clicked on outside of element
+       */
+      function handleClickOutside(event) {
+        if (ref.current && !ref.current.contains(event.target)) {
+          setSearchShow(false);
+        }
+      }
+      // Bind the event listener
+      document.addEventListener("mousedown", handleClickOutside);
+      return () => {
+        // Unbind the event listener on clean up
+        document.removeEventListener("mousedown", handleClickOutside);
+      };
+    }, [ref]);
+  }
+  const wrapperRef = useRef(null);
+  useOutsideAlerter(wrapperRef);
 
   // const handleOnSearch = (string, results) => {
   //   // onSearch will have as the first callback parameter
@@ -218,7 +238,7 @@ const Header = () => {
           {/* <div id="login-btn" className="fas fa-user"></div> */}
         </div>
         {searchShow ? (
-          <form action="" className="search-form">
+          <form action="" className="search-form" ref={wrapperRef}>
             {/* <input
               type="search"
               name=""

@@ -6,7 +6,7 @@ import slide from "../../../../Constants/Images/homePageImg/img18.png";
 import slide1 from "../../../../Constants/Images/homePageImg/brg1.jpg";
 import slide2 from "../../../../Constants/Images/homePageImg/img15.png";
 import slide3 from "../../../../Constants/Images/homePageImg/img2.png";
-import slide4 from "../../../../Constants/Images/homePageImg/miximg1.png";
+import slide4 from "../../../../Constants/Images/homePageImg/miximg2.png";
 import "./SlideHome.css";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
