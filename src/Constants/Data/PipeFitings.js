@@ -28,6 +28,13 @@ export const PipeFitingsData=[
     link:"/Olets_Pipe_Fittings",
     text:'All our products go through various quality checks from procurement to final delivery.',
     
+  },{
+    id:3,
+    img:require('../Images/ferul_img/img2.jpg'),
+    heading:"Ferrule Pipe Fittings",
+    link:"/Ferrule_Pipe_Fittings",
+    text:'All our products go through various quality checks from procurement to final delivery.',
+    
   }]
 
   export const PipeFitingsGradeData=[
@@ -53,6 +60,11 @@ export const PipeFitingsData=[
     id:3,
     grade:"Olets Pipe Fittings",
     link:"/Olets_Pipe_Fittings",
+    
+  },{
+    id:3,
+    grade:"Ferrule Pipe Fittings",
+    link:"/Ferrule_Pipe_Fittings",
     
   }]
   export const  Buttweld_Pipe_Fittings=[{
@@ -456,7 +468,7 @@ export const CategoriesButtdata=[
 export const ButtweldWeldPipeFittingsData = [
   {
     text1:
-      "Buttweld Pipe Fittings Manufacturers in India, Buttweld Pipe Fittings Exporters in India, Buttweld Pipe Fittings Suppliers in India, Buttweld Pipe Fittings Importers in India. Buttweld Pipe Fittings Manufacturers in Mumbai, Buttweld Pipe Fittings Exporters in Mumbai, Buttweld Pipe Fittings Suppliers in Mumbai, Buttweld Pipe Fittings Importers in Mumbai.",
+      "Buttweld Pipe Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "Modi Metals is Manufacturer, Stockists and Supplier of premium quality scope of stainless steel buttweld fittings that are fabricated under the master direction of our persistent workforce. we are 50 years experienced organization in Stainless Steel buttweld fittings. our Stainless Steel buttweld fittings and different items are made utilizing quality material and experience a thorough quality check at all phases of creation to guarantee quality. Outlined in consistence with worldwide quality gauges, these Stainless Steel buttweld fittings are consumption protection, strong and solid. we additionally supply Stainless Steel buttweld fittings in modified size. we are additionally occupied with the produce and conveyance of stainless steel butt welding channel fittings, stainless steel fashioned pipe fittings and stainless steel ribs in India and abroad. we offers a total scope of buttweld and produced pipe fittings, for example, stainless steel reducer, stainless steel elbow, stainless steel tee, stainless steel cross, stainless steel stub closures and stainless steel twists.",
     text3: "",
@@ -485,7 +497,7 @@ export const ButtweldWeldPipeFittingsData = [
 export const ThreadedPipeFittingsData = [
   {
     text1:
-      "Threaded Pipe Fittings Manufacturers in India, Threaded Pipe Fittings Exporters in India, Threaded Pipe Fittings Suppliers in India, Threaded Pipe Fittings Importers in India. Threaded Pipe Fittings Manufacturers in Mumbai, Threaded Pipe Fittings Exporters in Mumbai, Threaded Pipe Fittings Suppliers in Mumbai, Threaded Pipe Fittings Importers in Mumbai.",
+      "Threaded Pipe Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "Modi Metals is driving Manufacturer of stainless steel pipe fittings and stainless steel ribs in INDIA since Five Decades,Dipti Metal Industries positions in Top Ten organization in INDIA occupied with assembling of produced pipe fittings, at Dipti Metal Industries we offers the total scope of fashioned fittings including Socket Weld Fittings, Threaded Fittings, Nipple, Branch Outlet Fittings , Bosses, Union Joint and the sky is the limit from there. we would exporter be able to and provider of fashioned attachment weld fittings fabricated in understanding to ASME B16.11. Produced attachment weld fittings are accessible ex-stock in all real stainless steel grades (ASTM A182 F316L, F304L), carbon steel and combination steel grades. We offer different sorts of attachment weld fittings including attachment weld elbow, attachment weld tees, attachment weld cross, and the sky is the limit from there. Attachment weld fittings are broadly utilized as a part of channeling frameworks crosswise over real ventures, for example, petrochemicals, control age, send building, journal industry, distilleries, squander water treatment, compound, pharmaceuticals and others.",
     text3: "",
@@ -514,7 +526,7 @@ export const ThreadedPipeFittingsData = [
 export const SocketWeldPipeFittingsData = [
   {
     text1:
-      "Socket Weld Fittings Manufacturers in India, Socket Weld Fittings Exporters in India, Socket Weld Fittings Suppliers in India, Socket Weld Fittings Importers in India. Socket Weld Pipe Fittings Manufacturers in Mumbai, Socket Weld Pipe Fittings Exporters in Mumbai, Socket Weld Pipe Fittings Suppliers in Mumbai, Socket Weld Pipe Fittings Importers in Mumbai. ",
+      "Socket Weld Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India. ",
     text2:
       "Modi metals is driving Manufacturer of stainless steel pipe fittings and stainless steel ribs in INDIA since Five Decades,Dipti Metal Industries positions in Top Ten organization in INDIA occupied with assembling of produced pipe fittings, at Dipti Metal Industries we offers the total scope of fashioned fittings including Socket Weld Fittings, Threaded Fittings, Nipple, Branch Outlet Fittings , Bosses, Union Joint and the sky is the limit from there. we would exporter be able to and provider of fashioned attachment weld fittings fabricated in understanding to ASME B16.11. Produced attachment weld fittings are accessible ex-stock in all real stainless steel grades (ASTM A182 F316L, F304L), carbon steel and combination steel grades. We offer different sorts of attachment weld fittings including attachment weld elbow, attachment weld tees, attachment weld cross, and the sky is the limit from there. Attachment weld fittings are broadly utilized as a part of channeling frameworks crosswise over real ventures, for example, petrochemicals, control age, send building, journal industry, distilleries, squander water treatment, compound, pharmaceuticals and others.",
     text3: "",
@@ -543,7 +555,7 @@ export const SocketWeldPipeFittingsData = [
 export const oletFittingsData = [
   {
     text1:
-      "Olets, Olets Manufacturers, Olets Exporters, Olets Suppliers, Olets Importers.Olets Manufacturers in India, Olets Exporters in India, Olets Suppliers in India, Olets Importers in India.Olets Manufacturers in Mumbai, Olets Exporters in Mumbai, Olets Suppliers in Mumbai, Olets Importers in Mumbai. ",
+      "Olets Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "The Olets are made utilizing best quality material and are acknowledged for highlights, for example, dimensional precision and superb solidness. These pipe fittings that are particularly utilized as a part of different ventures for various applications. Attributable to erosion and temperature protection, these olets are utilized as a part of high temperature applications in oil and gas industry.",
     text3: "",
@@ -732,4 +744,249 @@ img:require('../Images/Pipefitings/Simg1.jpg'),
     heading:"Insert",
     img:require('../Images/Pipefitings/Simg8.jpg'),
   },
+]
+
+export const  Ferrule_Pipe_Fittings=[{
+
+  heading:"Stainless Steel Ferrule Pipe Fittings",
+  grade:[
+"SS 304 Ferrule Pipe Fittings",
+
+"SS 304L Ferrule Pipe Fittings",
+"SS 304H Ferrule Pipe Fittings",
+
+"SS 316 Ferrule Pipe Fittings",
+
+"SS 316L Ferrule Pipe Fittings",
+
+"SS 316Ti Ferrule Pipe Fittings",
+
+"SS 310 Ferrule Pipe Fittings",
+
+"SS 310S Ferrule Pipe Fittings",
+
+"SS 321 Ferrule Pipe Fittings",
+
+"SS 321H Ferrule Pipe Fittings",
+
+"SS 317 Ferrule Pipe Fittings",
+
+"SS 347 Ferrule Pipe Fittings",
+
+"SS 347H Ferrule Pipe Fittings",
+  ]
+
+},{
+
+
+  heading:"Alloy Steel Ferrule Pipe Fittings",
+  grade:[
+
+  "  Alloy Steel Ferrule Pipe Fittings",
+
+"Nickel Alloys Ferrule Pipe Fittings",
+
+"Nickel 200 Ferrule Pipe Fittings",
+
+"Nickel 201 Ferrule Pipe Fittings",
+
+"Monel 400 Ferrule Pipe Fittings",
+
+"Monel 500 Ferrule Pipe Fittings",
+
+"Inconel 800 Ferrule Pipe Fittings",
+
+"Inconel 825 Ferrule Pipe Fittings",
+
+"Inconel 600 Ferrule Pipe Fittings",
+
+"Inconel 625 Ferrule Pipe Fittings",
+
+"Inconel 601 Ferrule Pipe Fittings",
+  ]
+},
+
+{
+  heading:"Carbon Steel ASTM A 234 Ferrule Pipe Fittings",
+
+  grade:[
+
+    "Carbon Steel ASTM A 234 Ferrule Pipe Fittings",
+"Hastelloy C 276 Ferrule Pipe Fittings",
+
+"Alloy 20 Ferrule Pipe Fittings",
+
+"Titanium Ferrule Pipe Fittings",
+
+"Duplex Steel 2205 Ferrule Pipe Fittings",
+
+"Copper Alloys Ferrule Pipe Fittings",
+
+"Aluminium Ferrule Pipe Fittings",
+
+"Copper Ferrule Pipe Fittings",
+
+"Brass Ferrule Pipe Fittings",
+
+'Gunmetal Ferrule Pipe Fittings',
+
+  ]
+}
+
+
+]
+
+export const FerrulePipeFittingsData = [
+  {
+    text1:
+      "Ferrule Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India. ",
+    text2:
+      "Modi metals is a leading supplier and stockholder of compression pipe fittings, also known as ferrule fittings in stainless steel 304 and 316 grades. On demand we can also offer ferrule fittings in other grades such as brass, copper, nickel alloys and carbon steel. Double ferrule fittings are require no flaring of the metal tube to install. They are compressed onto the tubing to form strong leak proof connection in process, power and instrumentation applications. Ferrule fittings are ideal for a diverse range of industries, including process oil and gas, petrochemical, power generation, military, pharmaceutical, and more. The single and double ferrule fittings are available in a broad range of sizes, materials, and configurations. Stainless steel ferrule fittings are widely used in hydraulic and pneumatic applications in a range of industries such as oil and gas, petrochemicals, natural gas, fertilizers and power generation.",
+    text3: "Ferrule Fittings are pipe fittings that are used to connect two pipes of different material makes. Since welding or threading might not be sufficient to connect these pipes together, a pipe fitting with a ferrule or olive is used to connect them. There are different types such as standard, non – manipulative and flare fittings or manipulative fittings. Pearl Overseas produce all kinds of ferrule fittings for use with different material made pipes. The Brass Ferrule Fittings use brass as the ferrule. It is a connector that can adjust the differences between the two pipes being connected and brass is preferred where corrosive liquids are used. The Stainless Steel Ferrule Fittings are mostly used in hot water and cold water supply lines.",
+    grade:Ferrule_Pipe_Fittings,
+    Specifications: {
+      Material:
+        "SS 304,SS 316,Brass,Special Alloy",
+      Size: '1/16"OD to 2"OD,OD to 50mm OD',
+      Thread: "Thread NPT,BSP,BSPT,UNF",
+     "Pressure Rating": '6000PSI for Stainless Steel,300/1000/3000PSI for Brass',
+     Type:"Ferrule, Swivel Nut, Adapters",
+     Application:"Gas Pipe",
+     Connection:"Welded, Male, Female",
+     Form:"Hex Nipple, Cap, Elbow",
+     "Thread Size":"All",
+    
+  
+    },
+    chemical: {
+      "Tube to Tube":
+        "Straight, Elbow, Tee, Cross, Bulk Head",
+      "Tube to Male": "Male Stud, Male Elbow, Male Tee",
+      "Female Connector": "Female Straight, Elbow, Tee Positionable Elbow & Tee (Swivel)",
+      "Tube Closure":
+        "Plug, Cap Weld Connector, Nut & Ferrule Set",
+
+    },
+  },
+];
+
+export const FerruleCatgoryData=[
+  {
+    heading:"Back Ferrule",
+img:require('../../Constants/Images/ferul_img/img3.jpg'),
+  },
+  {
+    heading:"Reducing Union Tee",
+img:require('../../Constants/Images/ferul_img/img4.jpg'),
+  }, {
+    heading:"Positionable Male Elbow",
+img:require('../../Constants/Images/ferul_img/img5.jpg'),
+  }, {
+    heading:"Female Adaptor",
+img:require('../../Constants/Images/ferul_img/img6.jpg'),
+  }, {
+    heading:"Union Cross",
+img:require('../../Constants/Images/ferul_img/img7.jpg'),
+  }, {
+    heading:"Female Connector",
+img:require('../../Constants/Images/ferul_img/img8.jpg'),
+  }, {
+    heading:"Male Connector",
+img:require('../../Constants/Images/ferul_img/img9.jpg'),
+  }, {
+    heading:"Union Elbow",
+img:require('../../Constants/Images/ferul_img/img10.jpg'),
+  }, {
+    heading:"Fitting And Closer",
+img:require('../../Constants/Images/ferul_img/img11.jpg'),
+  }, {
+    heading:"Reducing Union",
+img:require('../../Constants/Images/ferul_img/img12.jpg'),
+  }, {
+    heading:"Female Run Tee",
+img:require('../../Constants/Images/ferul_img/img13.jpg'),
+  }, {
+    heading:"45 Deg. Male Elbow",
+img:require('../../Constants/Images/ferul_img/img14.jpg'),
+  }, {
+    heading:"Front Ferrule",
+img:require('../../Constants/Images/ferul_img/img15.jpg'),
+  }, {
+    heading:"Male Run Tee",
+img:require('../../Constants/Images/ferul_img/img16.jpg'),
+  }, {
+    heading:"Union",
+img:require('../../Constants/Images/ferul_img/img17.jpg'),
+  }, {
+    heading:"Female Branch Tee",
+img:require('../../Constants/Images/ferul_img/img18.jpg'),
+  }, {
+    heading:"Male Branch Tee",
+img:require('../../Constants/Images/ferul_img/img19.jpg'),
+  }, {
+    heading:"Positionable Male Run Tee",
+img:require('../../Constants/Images/ferul_img/img20.jpg'),
+  }, {
+    heading:"Male Elbow",
+img:require('../../Constants/Images/ferul_img/img21.jpg'),
+  }, {
+    heading:"Reducer",
+img:require('../../Constants/Images/ferul_img/img22.jpg'),
+  }, {
+    heading:"Tube And Closer",
+img:require('../../Constants/Images/ferul_img/img23.jpg'),
+  }, {
+    heading:"Female Manometer Connector",
+img:require('../../Constants/Images/ferul_img/img24.jpg'),
+  }, {
+    heading:"O Seal Male Adaptor",
+img:require('../../Constants/Images/ferul_img/img25.jpg'),
+  }, {
+    heading:"Bulkhead Female Connector",
+img:require('../../Constants/Images/ferul_img/img26.jpg'),
+  }, {
+    heading:"Female Elbow",
+img:require('../../Constants/Images/ferul_img/img27.jpg'),
+  }, {
+    heading:"Male Connector - BSP",
+img:require('../../Constants/Images/ferul_img/img28.jpg'),
+  }, {
+    heading:"Butt Weld Pipe Connector",
+img:require('../../Constants/Images/ferul_img/img29.jpg'),
+  }, {
+    heading:"Bulkhead Union",
+img:require('../../Constants/Images/ferul_img/img30.jpg'),
+  }, {
+    heading:"Nut",
+img:require('../../Constants/Images/ferul_img/img31.jpg'),
+  }, {
+    heading:"Positionable Male Branch Tee",
+img:require('../../Constants/Images/ferul_img/img32.jpg'),
+  }, {
+    heading:"Socket Weld Tube Connector",
+img:require('../../Constants/Images/ferul_img/img33.jpg'),
+  }, {
+    heading:"Socket Weld Tube Elbow",
+img:require('../../Constants/Images/ferul_img/img34.jpg'),
+  }, {
+    heading:"Bulkhead Reducer",
+img:require('../../Constants/Images/ferul_img/img35.jpg'),
+  }, {
+    heading:"Male Adaptor",
+img:require('../../Constants/Images/ferul_img/img36.jpg'),
+  }, {
+    heading:"Bulkhead Male Connector",
+img:require('../../Constants/Images/ferul_img/img37.jpg'),
+  }, {
+    heading:"Female Manometer Adaptor",
+img:require('../../Constants/Images/ferul_img/img38.jpg'),
+  }, {
+    heading:"O Seal Male Connector",
+img:require('../../Constants/Images/ferul_img/img39.jpg'),
+  }, {
+    heading:"45 Deg. Positionable Male Elbow",
+img:require('../../Constants/Images/ferul_img/img40.jpg'),
+  }, 
+
+
 ]

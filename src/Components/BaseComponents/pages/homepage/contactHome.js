@@ -156,11 +156,10 @@ if(name==''){
             <span class="fa-solid fa-square-share-nodes mx-2"></span>
               <h4>Social Media:</h4>
               <div className="share">
-            <Link to="#" className="fab fa-facebook-f"></Link>
-            <Link to="#" className="fab fa-twitter"></Link>
-            <Link to="#" className="fab fa-instagram"></Link>
-            <a href='https://wa.me/9875782537' className="fa-brands fa-whatsapp"></a>
-           
+              <a href="https://www.linkedin.com/in/modi-metals-5a1ba9200" className="fa-brands fa-linkedin-in" target="_blank"></a>
+            <a href="https://twitter.com/MODI_METALS?t=_5ujRniaI6uWXLPosEmdJw&s=09" className="fab fa-twitter" target="_blank"></a>
+            <a href="https://www.instagram.com/invites/contact/?i=1x8zwnbbom1f1&utm_content=mh9pec9" className="fab fa-instagram" target="_blank"></a>
+            <a  href='https://wa.me/9137130839' className="fa-brands fa-whatsapp" target="_blank"></a>
           </div>
            
             </div>

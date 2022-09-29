@@ -15,6 +15,7 @@ import { RodImgData} from '../../../Constants/Data/GalleryData'
 import { SqurImgData } from '../../../Constants/Data/GalleryData'
 import { WireImgData } from '../../../Constants/Data/GalleryData'
 
+
 import { GallerytabData } from '../../../Constants/Data/GalleryData';
 
 
@@ -37,7 +38,7 @@ const Gallery = () => {
 <div className='container'>
 
 <Tabs
-      defaultActiveKey="Sheet/Plate"
+      defaultActiveKey="Sheet & Plate"
       id="uncontrolled-tab-example"
       className="mb-3 "
     >

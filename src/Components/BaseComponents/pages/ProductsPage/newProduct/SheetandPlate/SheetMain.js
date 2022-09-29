@@ -11,7 +11,8 @@ const SheetMain = (props) => {
     /* you can also use 'auto' behaviour
        in place of 'smooth' */
   });
-
+  var heading=`Contact Modi Metals for ${props.name.heading} Products Today`
+  var text=`Contact us for more information regarding our ${props.name.heading} options, or request a quote for further pricing details today. Modi Metals is your trusted ${props.name.heading}  supplier of premium ${props.name.heading} Products .`
   console.log(props.name.data,'name',props.name.img)
   const data_option=props.name.data
   return (

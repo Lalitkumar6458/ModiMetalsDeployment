@@ -57,8 +57,8 @@ console.log("splitLocation ",splitLocation,Grade)
 
 <img className='img-fluid' src={props.name.data[0].image}/>
 
-{/* <p>{props.name.data[0].text2}
-</p> */}
+<p>{props.name.data[0].text2}
+</p>
 
 <p>{props.name.data[0].text3}</p>
 
@@ -128,6 +128,7 @@ console.log("splitLocation ",splitLocation,Grade)
 
 <Contact_btn  content={{heading:heading,text:text}}/>
     </div>
+    
   )
 }
 

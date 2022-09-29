@@ -43,7 +43,12 @@ console.log(props,"props")
         <p>
         {props.name.data[0].text1}
         </p>
-
+        {
+          props.name.data[0].text3===""?null: <p>
+          {props.name.data[0].text3}
+          </p>
+        }
+       
         <img className="img-fluid" src={props.name.img} alt="" />
         <p className="pipefiting_text">
         {props.name.data[0].text2}
@@ -70,7 +75,8 @@ console.log(props,"props")
           </table>
         </div>
         <div className="specfications_table">
-          <h3> FORGED PIPE FITTINGS MANUFACTURING STANDARDS</h3>
+        {props.name.heading=="Ferrule Pipe Fittings"?<h3> Ferrule Fittings Standard Configurations</h3>: <h3> FORGED PIPE FITTINGS MANUFACTURING STANDARDS</h3>}
+         
           <table className="table">
           
             <tbody>
@@ -124,9 +130,9 @@ console.log(props,"props")
                   <div className="row Img_butt ">
                     {props.name.Category.map((item)=>{
                         return(
-                            <div className="col-12 col-md-4 position-relative">
+                            <div className="col-12 col-md-4 position-relative cat_box">
                           
-            <img className="img-fluid" src={item.img} alt="" />
+            <img className="img-fluid type_img_p" src={item.img} alt="" />
             <h4>{item.heading}</h4>
     
                         </div>

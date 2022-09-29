@@ -26,6 +26,9 @@ const Footer = () => {
               Markets through its 2 core strategies namely: total quality and
               flexibility.
             </p>
+            {/* <p>
+            We would like to introduce ourselves as a one of the leading Importer & Stockiest of all kind of Nickel Base Alloy, Titanium Alloys, etc in Sheets, Plates, Coils, Strips, Pipes & Tubes, Round Bars, Square Bars, Hex Bars, Circle, Filler Wires, Welding Electrodes etc in India. We can offer you all the material Ex-Stock Mumbai at most Competitive rates & with Batch Test Certificate.
+            </p> */}
           </div>
           <div className="col-md-3 col-12 col-sm-6 d-flex flex-column align-items-center">
             <h3>Quick links</h3>
@@ -35,7 +38,7 @@ const Footer = () => {
               <Link to="/productModi"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Products</Link>
 
 
-              <Link to="/products"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Alloys</Link>
+              <Link to="/products"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Materials</Link>
               <Link to="/gallery" > 
               
                <i class="fa-solid fa-angle-right text-white mx-2"></i>Gallery </Link>
@@ -65,12 +68,14 @@ const Footer = () => {
              <div className="stay_tuch">
                <h4>STAY IN TOUCH</h4>
                <div className='footer_social'>
-               <i class="fa-brands fa-facebook-f"></i>
-              <a to='https://wa.me/9875782537'> <i class="fa-brands fa-whatsapp"></i></a>
-               <i class="fa-brands fa-instagram"></i>
-               <i class="fa-brands fa-twitter"></i>
+               {/* <i class="fa-brands fa-facebook-f"></i> */}
+              <a href='https://wa.me/9137130839' target="_blank"> <i class="fa-brands fa-whatsapp" ></i></a>
+             <a href="https://www.instagram.com/invites/contact/?i=1x8zwnbbom1f1&utm_content=mh9pec9" target="_blank">  <i class="fa-brands fa-instagram"></i></a>
+               <a href="https://www.linkedin.com/in/modi-metals-5a1ba9200" target="_blank">  <i class="fa-brands fa-linkedin-in"></i></a>
+               <a href="https://twitter.com/MODI_METALS?t=_5ujRniaI6uWXLPosEmdJw&s=09" className="" target="_blank">  <i class="fab fa-twitter"></i></a>
 
                </div>
+
 
 
              </div>
@@ -94,7 +99,7 @@ Patti , Circle , Ring , Nut Bolt , Washer , Valves & Dairy Fitting , Industrial 
         <div className="bottom_line"></div>
         <div className="copy_right">
           <h4>©2022  Modi Metals. All Rights Reserved. Privacy Policy</h4>
-          <h5>DESIGN  AND DEVELOPED BY <a to='#'> LALIT KUMAR </a></h5>
+          <h5>DESIGN  AND DEVELOPED BY <a href="https://www.linkedin.com/in/lalit-kumar-845a2123a" target="_blank"> LALIT KUMAR </a></h5>
         </div>
       </div>
 
