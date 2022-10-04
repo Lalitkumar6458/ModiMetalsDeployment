@@ -3,7 +3,7 @@
 export const HomeSlider=[
     {
     id:1,
-    img:require('../Images/homePageImg/img15.png'),
+    img:require('../Images/homePageImg/img17.jpg'),
 
     // heading:"we provide best Products  As per Your Requirments",
     heading:"We are exporter & suppliers of Welding Electrodes, Filler Wires & Flux Cored Wires",

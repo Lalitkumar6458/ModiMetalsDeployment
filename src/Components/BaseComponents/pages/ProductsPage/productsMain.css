@@ -502,7 +502,15 @@ width: 350px !important;
         .products_heading h2{
             font-size: 2.2rem;
         }
-
+        .alloys_content {
+            padding: 0 30px;
+            text-align: left;
+            margin-top: 40px;
+        }
+        .Special_P {
+            text-align: left;
+            padding: 0 30px;
+        }
 }
 .WeldingBrad{
     width: 100%;

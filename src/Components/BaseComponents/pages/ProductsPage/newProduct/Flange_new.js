@@ -7,6 +7,12 @@ import GradeOption from './GradeOption';
 import { FlangeOptionsData } from '../../../../../Constants/Data/FlangeData';
 import { Flange_Grade_alloys } from '../../../../../Constants/Data/FlangeData';
 const Flange_new = (props) => {
+  window.scrollTo({
+    top: 0, 
+    behavior: 'smooth'
+    /* you can also use 'auto' behaviour
+       in place of 'smooth' */
+  });
 
     console.log(props,"Flange_new props")
     const specification_key=Object.keys(props.name.data[0].Specifications)

@@ -1,7 +1,9 @@
 import React from 'react'
 import { IndustryImgData } from '../../../../../Constants/Data/OfferData';
 import img from "../../../../../Constants/Images/applictionsimg/img1.jpg"
-import ReactCardSlider from 'react-card-slider-component';
+// import ReactCardSlider from 'react-card-slider-component';
+//  import ReactCardSlider from './components/ReactCardSlider';
+import ReactCardSlider from './ReactCardSlider';
 const IndustriesServe = () => {
   const slides = [
     {image:require("../../../../../Constants/Images/applictionsimg/img1.jpg"),title:"Valves",description:"We are Supplier of Valves"},
@@ -16,6 +18,8 @@ const IndustriesServe = () => {
     {image:require("../../../../../Constants/Images/applictionsimg/img10.png"),title:"Oil & Gas",description:"We are Supplier in Oil & Gas Industry"},
     {image:require("../../../../../Constants/Images/applictionsimg/img11.jpg"),title:"Instrumentation",description:"We are Supplier of Instrumentation Products"},
     {image:require("../../../../../Constants/Images/applictionsimg/img12.jpg"),title:"Constructions",description:"We are Supplier of Constructions Products"},
+    {image:require("../../../../../Constants/Images/applictionsimg/img13.jpg"),title:"Pulp and Paper",description:"We are Supplier of Pulp and Paper Products"},
+    {image:require("../../../../../Constants/Images/applictionsimg/img14.jpg"),title:"Cement Industry",description:"We are Supplier of Cement Industry Products"},
 ]
   return (
     <div className='container'>

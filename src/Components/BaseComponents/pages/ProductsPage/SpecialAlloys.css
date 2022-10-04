@@ -81,8 +81,9 @@ color: #000000;
     flex-wrap: wrap;
 }
 .img_a img{
-    width: 401px;
+    width: 397px;
     height: 269px;
+    border: 1px solid #0A2A6A;
 }
 .grade_inco h4{
     font-size: 1.8rem;
@@ -112,4 +113,25 @@ color: #000000;
 .contact_us_c h5{
     font-size: 1.8rem;
     font-family: 'Poppins', sans-serif;
+}
+@media (max-width:576px) {
+    .Special_alloys {
+        margin-top: 30px;
+        padding: 0 22px;
+    }
+    .img_a img {
+        width: 397px;
+        height: 269px;
+        border: 1px solid #0A2A6A;
+        margin-bottom: 20px;
+    }
+    .contact_us_c i {
+        color: #0A2A6A;
+        font-style: normal;
+        font-size: 32px;
+        margin-right: 10px;
+    }
+    .scroll_icon {
+        transform: translateY(2px);
+    }
 }

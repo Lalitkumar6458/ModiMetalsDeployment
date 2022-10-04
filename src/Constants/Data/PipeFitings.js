@@ -468,7 +468,7 @@ export const CategoriesButtdata=[
 export const ButtweldWeldPipeFittingsData = [
   {
     text1:
-      "Buttweld Pipe Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
+      "Buttweld Pipe Fittings Manufacturers,Exporters Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "Modi Metals is Manufacturer, Stockists and Supplier of premium quality scope of stainless steel buttweld fittings that are fabricated under the master direction of our persistent workforce. we are 50 years experienced organization in Stainless Steel buttweld fittings. our Stainless Steel buttweld fittings and different items are made utilizing quality material and experience a thorough quality check at all phases of creation to guarantee quality. Outlined in consistence with worldwide quality gauges, these Stainless Steel buttweld fittings are consumption protection, strong and solid. we additionally supply Stainless Steel buttweld fittings in modified size. we are additionally occupied with the produce and conveyance of stainless steel butt welding channel fittings, stainless steel fashioned pipe fittings and stainless steel ribs in India and abroad. we offers a total scope of buttweld and produced pipe fittings, for example, stainless steel reducer, stainless steel elbow, stainless steel tee, stainless steel cross, stainless steel stub closures and stainless steel twists.",
     text3: "",
@@ -497,7 +497,7 @@ export const ButtweldWeldPipeFittingsData = [
 export const ThreadedPipeFittingsData = [
   {
     text1:
-      "Threaded Pipe Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
+      "Threaded Pipe Fittings Manufacturers,Exporters Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "Modi Metals is driving Manufacturer of stainless steel pipe fittings and stainless steel ribs in INDIA since Five Decades,Dipti Metal Industries positions in Top Ten organization in INDIA occupied with assembling of produced pipe fittings, at Dipti Metal Industries we offers the total scope of fashioned fittings including Socket Weld Fittings, Threaded Fittings, Nipple, Branch Outlet Fittings , Bosses, Union Joint and the sky is the limit from there. we would exporter be able to and provider of fashioned attachment weld fittings fabricated in understanding to ASME B16.11. Produced attachment weld fittings are accessible ex-stock in all real stainless steel grades (ASTM A182 F316L, F304L), carbon steel and combination steel grades. We offer different sorts of attachment weld fittings including attachment weld elbow, attachment weld tees, attachment weld cross, and the sky is the limit from there. Attachment weld fittings are broadly utilized as a part of channeling frameworks crosswise over real ventures, for example, petrochemicals, control age, send building, journal industry, distilleries, squander water treatment, compound, pharmaceuticals and others.",
     text3: "",
@@ -526,7 +526,7 @@ export const ThreadedPipeFittingsData = [
 export const SocketWeldPipeFittingsData = [
   {
     text1:
-      "Socket Weld Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India. ",
+      "Socket Weld Fittings Manufacturers,Exporters Suppliers,Importers,Stockists In Mumbai and India. ",
     text2:
       "Modi metals is driving Manufacturer of stainless steel pipe fittings and stainless steel ribs in INDIA since Five Decades,Dipti Metal Industries positions in Top Ten organization in INDIA occupied with assembling of produced pipe fittings, at Dipti Metal Industries we offers the total scope of fashioned fittings including Socket Weld Fittings, Threaded Fittings, Nipple, Branch Outlet Fittings , Bosses, Union Joint and the sky is the limit from there. we would exporter be able to and provider of fashioned attachment weld fittings fabricated in understanding to ASME B16.11. Produced attachment weld fittings are accessible ex-stock in all real stainless steel grades (ASTM A182 F316L, F304L), carbon steel and combination steel grades. We offer different sorts of attachment weld fittings including attachment weld elbow, attachment weld tees, attachment weld cross, and the sky is the limit from there. Attachment weld fittings are broadly utilized as a part of channeling frameworks crosswise over real ventures, for example, petrochemicals, control age, send building, journal industry, distilleries, squander water treatment, compound, pharmaceuticals and others.",
     text3: "",
@@ -555,7 +555,7 @@ export const SocketWeldPipeFittingsData = [
 export const oletFittingsData = [
   {
     text1:
-      "Olets Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India.",
+      "Olets Fittings Manufacturers,Exporters Suppliers,Importers,Stockists In Mumbai and India.",
     text2:
       "The Olets are made utilizing best quality material and are acknowledged for highlights, for example, dimensional precision and superb solidness. These pipe fittings that are particularly utilized as a part of different ventures for various applications. Attributable to erosion and temperature protection, these olets are utilized as a part of high temperature applications in oil and gas industry.",
     text3: "",
@@ -839,7 +839,7 @@ export const  Ferrule_Pipe_Fittings=[{
 export const FerrulePipeFittingsData = [
   {
     text1:
-      "Ferrule Fittings Manufacturers,Exporters,Suppliers,Importers,Stockists In Mumbai and India. ",
+      "Ferrule Fittings Manufacturers,Exporters Suppliers,Importers,Stockists In Mumbai and India. ",
     text2:
       "Modi metals is a leading supplier and stockholder of compression pipe fittings, also known as ferrule fittings in stainless steel 304 and 316 grades. On demand we can also offer ferrule fittings in other grades such as brass, copper, nickel alloys and carbon steel. Double ferrule fittings are require no flaring of the metal tube to install. They are compressed onto the tubing to form strong leak proof connection in process, power and instrumentation applications. Ferrule fittings are ideal for a diverse range of industries, including process oil and gas, petrochemical, power generation, military, pharmaceutical, and more. The single and double ferrule fittings are available in a broad range of sizes, materials, and configurations. Stainless steel ferrule fittings are widely used in hydraulic and pneumatic applications in a range of industries such as oil and gas, petrochemicals, natural gas, fertilizers and power generation.",
     text3: "Ferrule Fittings are pipe fittings that are used to connect two pipes of different material makes. Since welding or threading might not be sufficient to connect these pipes together, a pipe fitting with a ferrule or olive is used to connect them. There are different types such as standard, non – manipulative and flare fittings or manipulative fittings. Pearl Overseas produce all kinds of ferrule fittings for use with different material made pipes. The Brass Ferrule Fittings use brass as the ferrule. It is a connector that can adjust the differences between the two pipes being connected and brass is preferred where corrosive liquids are used. The Stainless Steel Ferrule Fittings are mostly used in hot water and cold water supply lines.",

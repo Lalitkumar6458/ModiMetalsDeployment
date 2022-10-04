@@ -1,12 +1,18 @@
 import React from "react";
 import { Link,useLocation } from "react-router-dom";
 import AlloysImg from "../../../../Constants/Images/BaseImage/AlloysImg.jpg";
-import bgimg from "../../../../Constants/Images/BarImg/Bar4.jpg";
-import bgimg1 from "../../../../Constants/Images/CoilsImg/Coils9.jpg";
+import bgimg from "../../../../Constants/Images/newproduct/AlloysImg1.png";
+import bgimg1 from "../../../../Constants/Images/newproduct/AlloysImg2.png";
 import { SpecialAlloysgrade } from "../../../../Constants/Data/SpecialAlloys";
 import { ProductData } from "../../../../Constants/Data/ProductData";
 import "./SpecialAlloys.css";
 const SpecialAlloysP = (props) => {
+  window.scrollTo({
+    top: 0, 
+    behavior: 'smooth'
+    /* you can also use 'auto' behaviour
+       in place of 'smooth' */
+  });
   console.log(props.name, "special_data");
   const location = useLocation();
 

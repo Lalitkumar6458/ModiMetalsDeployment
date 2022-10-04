@@ -38,7 +38,7 @@ const Footer = () => {
               <Link to="/productModi"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Products</Link>
 
 
-              <Link to="/products"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Materials</Link>
+              <Link to="/products"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Special Alloys</Link>
               <Link to="/gallery" > 
               
                <i class="fa-solid fa-angle-right text-white mx-2"></i>Gallery </Link>
@@ -48,13 +48,13 @@ const Footer = () => {
           <div className="col-md-3 col-12 col-sm-6 d-flex flex-column align-items-center ">
             <h3>Hot products</h3>
             <div className="quick_link d-flex flex-column ">
-              <Link to="/Coils"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Coils</Link>
+              <Link to="/Coils"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Coils & Strips</Link>
               <Link to="/Flanges">  <i class="fa-solid fa-angle-right text-white mx-2"></i>Flanges</Link>
               <Link to="/Pipe_Fittings">  <i class="fa-solid fa-angle-right text-white mx-2"></i>Pipe Fittings</Link>
               <Link to="/WIRE"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Wire</Link>
-              <Link to="/SheetMain"> <i class="fa-solid fa-angle-right text-white mx-2"></i> Sheet/Plate </Link>
-              <Link to="/products/nickel_fasteners"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Bolt / Nut </Link>
-              <Link to="/Pipes_tubes"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Pipes/Tubes </Link>
+              <Link to="/SheetMain"> <i class="fa-solid fa-angle-right text-white mx-2"></i> Sheet & Plate </Link>
+              <Link to="/products/nickel_fasteners"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Bolt  & Nut </Link>
+              <Link to="/Pipes_tubes"> <i class="fa-solid fa-angle-right text-white mx-2"></i>Pipes & Tubes </Link>
               <Link to="/ROUND_BAR">  <i class="fa-solid fa-angle-right text-white mx-2"></i>Round Bar</Link>
             </div>
           </div>

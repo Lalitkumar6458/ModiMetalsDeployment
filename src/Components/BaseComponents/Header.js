@@ -201,46 +201,7 @@ return null
                   </li>
                   )
                 })}
-                {/* <li>
-                  <Link to="/products/stainless_steel">Stainless Steel</Link>
-                </li>
-                <li>
-                  {" "}
-                  <Link to="/products/mildSteel">Mild Steel</Link>
-                </li>
-                <li>
-                  {" "}
-                  <Link to="/products/carbon_steel">Carbon Steel</Link>
-                </li>
-                <li>
-                  {" "}
-                  <Link to="/products/high_nickel_alloys">
-                    High Nickel Alloys
-                  </Link>
-                </li>
-                <li>
-                  {" "}
-                  <Link to="/products/duplex_steel">Duplex Steels </Link>
-                </li>
-                <li className="d-none">
-                  {" "}
-                  <Link to="/products/stellite">Stellite</Link>
-                </li>
-                <li className="d-none">
-                  <Link to="/products/welding_consumbles">
-                    Welding Consumables
-                  </Link>
-                </li>
-                <li>
-                  {" "}
-                  <Link to="/products/titanium_alloys">Titanium Alloys </Link>
-                </li>
-                <li className="d-none">
-                  {" "}
-                  <Link to="/products/nickel_fasteners">
-                    Nickel Alloys Fasteners
-                  </Link>
-                </li> */}
+                
               </ul>
             </li>
             <li>
@@ -297,7 +258,7 @@ return null
                         }
                       ></i>
                     </Link>
-                    <ul className={manufShowP ? "" : "d-none"} style={{background:"#06183b"}}>
+                    <ul className={manufShowP ? "" : "d-none"} style={{}}>
                       {ProductData.map((item) => {
                         if (item.id >= 7) {
                           return (
@@ -319,12 +280,14 @@ return null
                                 ) : null}
                               </Link>
                               {item.heading === "Pipe Fittings" ? (
-                                <ul className={pipeShowP==true ? "" : "d-none"} style={{background:"#01050d"}}>
+                                <ul className={pipeShowP==true ? "" : "d-none"} style={{}}>
                                   {item.child_data.map((item) => {
                                     return (
                                       <li>
                                         {" "}
-                                        <Link to={item.link}>
+                                        <Link to={item.link}  onClick={() =>
+                  showDropdown(navbarShow,setNevbarShow)
+                  }>
                                           {" "}
                                           {item.heading}
                                         </Link>
@@ -335,12 +298,14 @@ return null
                               ) : null}
 
                               {item.heading === "Flanges" ? (
-                                <ul className={flangeShowP==true ? "" : "d-none"} style={{background:"#01050d"}}>
+                                <ul className={flangeShowP==true ? "" : "d-none"} style={{}}>
                                   {item.child_data.map((item) => {
                                     return (
                                       <li>
                                         {" "}
-                                        <Link to={item.link}>
+                                        <Link to={item.link} onClick={() =>
+                   showDropdown(navbarShow,setNevbarShow)
+                  }>
                                           {" "}
                                           {item.heading}
                                         </Link>
@@ -398,47 +363,14 @@ return null
                         }
                       ></i>
                 </Link>
-                <ul className={produtsShow ? "" : "d-none"}>
-                  <li>
-                    <Link to="/products/stainless_steel">Stainless Steel</Link>
+                <ul className={produtsShow ? "" : "d-none"} style={{background:"#082152"}}>
+                {SpecialAlloysgrade.map((item)=>{
+                  return(
+                    <li>
+                    <Link to={item.link}>{item.heading}</Link>
                   </li>
-                  <li>
-                    {" "}
-                    <Link to="/products/mildSteel">Mild Steel</Link>
-                  </li>
-                  <li>
-                    {" "}
-                    <Link to="/products/carbon_steel">Carbon Steel</Link>
-                  </li>
-                  <li>
-                    {" "}
-                    <Link to="/products/high_nickel_alloys">
-                      High Nickel Alloys
-                    </Link>
-                  </li>
-                  <li>
-                    {" "}
-                    <Link to="/products/duplex_steel">Duplex Steels </Link>
-                  </li>
-                  <li className="d-none">
-                    {" "}
-                    <Link to="/products/stellite">Stellite</Link>
-                  </li>
-                  <li className="d-none">
-                    <Link to="/products/welding_consumbles">
-                      Welding Consumables
-                    </Link>
-                  </li>
-                  <li>
-                    {" "}
-                    <Link to="/products/titanium_alloys">Titanium Alloys </Link>
-                  </li>
-                  <li className="d-none">
-                    {" "}
-                    <Link to="/products/nickel_fasteners">
-                      Nickel Alloys Fasteners
-                    </Link>
-                  </li>
+                  )
+                })}
                 </ul>
               </li>
               <li>
@@ -519,6 +451,10 @@ return null
             <a href="tel:+91 9137130839" style={{ textDecoration: "none" }}>
               {" "}
               <p>+91 9137130839 </p>
+            </a>
+            <a href="tel:+91 9930271527" style={{ textDecoration: "none" }}>
+              {" "}
+              <p>+91 9930271527 </p>
             </a>
           </div>
 

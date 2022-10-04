@@ -563,7 +563,7 @@ const BaseIndex = () => {
  <Route path="/DuplexSuperduplexCoils" element={<SSsheet name={{data:DuplexCoilsData,Grade:DuplexCoilsGradeData,heading:"DUPLEX/SUPERDUPLEX COILS & STIRPS",img:CoilsImg1}}  />}/>
     
  <Route path="/Welding_Consumables" element={<WeldingWire   />}/>
-        <Route path="products" element={<Products  message={{text_heading:"Alloys",img:Alloysimg}} />}>
+        <Route path="products" element={<Products  message={{text_heading:"Special Alloys",img:Alloysimg}} />}>
           
       
         </Route> 

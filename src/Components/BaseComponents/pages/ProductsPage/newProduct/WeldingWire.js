@@ -6,6 +6,12 @@ import { WeldingImgData } from "../../../../../Constants/Data/OfferData";
 import WeldinghImg from "../../../../../Constants/Images/welding_img/bgimg.jpg";
 import { WeldingImg1Data } from "../../../../../Constants/Data/WeldingData";
 const WeldingWire = () => {
+  window.scrollTo({
+    top: 0, 
+    behavior: 'smooth'
+    /* you can also use 'auto' behaviour
+       in place of 'smooth' */
+  });
   var heading = "Contact Modi Metals for Welding Consumables Materials Today";
   var text =
     "Contact us for more information regarding our Welding Consumables material options, or request a quote for further pricing details today. Modi Metals is your trusted Welding Consumables supplier of premium Welding Consumables materials.";
